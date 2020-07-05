@@ -1,0 +1,2 @@
+round_epochs,loss,PR_AUC,val_loss,val_PR_AUC,activation1,activation2,batch_size,dropout1,dropout2,epochs,losses,neurons1,neurons2,optimizer
+10,0.010180877503097716,0.36408046,0.006246712597413435,0.6477326,<function relu at 0x7f7b05e984d0>,<function relu at 0x7f7b05e984d0>,512,0.4,0.4,10,<function binary_crossentropy at 0x7f7b088b0e60>,8,8,Adam

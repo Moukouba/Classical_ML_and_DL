@@ -1,0 +1,3 @@
+round_epochs,loss,PR_AUC,val_loss,val_PR_AUC,activation1,activation2,batch_size,dropout1,dropout2,epochs,losses,neurons1,neurons2,optimizer
+7,0.0007519606222145873,0.0017671224,0.0007504065665668044,0.0017321488,<function sigmoid at 0x7f7b05e985f0>,<function sigmoid at 0x7f7b05e985f0>,512,0.30000000000000004,0.4,28,<function logcosh at 0x7f7b088b0cb0>,32,32,Adam
+10,0.011869221123165569,0.026546717,0.011799783478714403,0.10711945,<function relu at 0x7f7b05e984d0>,<function sigmoid at 0x7f7b05e985f0>,32,0.5,0.30000000000000004,10,<function binary_crossentropy at 0x7f7b088b0e60>,128,16,SGD
