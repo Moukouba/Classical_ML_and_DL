@@ -1,2 +1,0 @@
-round_epochs,loss,mean_absolute_error,r_squared,val_loss,val_mean_absolute_error,val_r_squared,activation1,activation2,batch_size,dropout,epochs,loss,neurons1,neurons2,optimizer
-18,2.924915750113658,1.2881044,0.85015446,0.18264714199587131,0.34343383,0.98935056,<function relu at 0x7f135031a7a0>,<function linear at 0x7f135031aa70>,128,0.30000000000000004,66,mse,64,32,Adam
